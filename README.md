@@ -1,4 +1,4 @@
-# Where's Wally Deep Learning Detector
+# Where's Wally Deep Learning Detector🔎
 
 This Depp Learning project used PyTorch's pre-trained model Coco(ResNet-50) with a Fast R-CNN algorithm.
 
@@ -12,6 +12,12 @@ During training, the Pareto algorithm was implemented to select and save the wei
 <img width="1033" alt="Screenshot 2023-07-23 at 15 26 05" src="https://github.com/AnabeatrizMacedo241/WheresWally_Detector/assets/84348494/da686767-4bb4-4a2f-9b89-f052b110cf63">
 
 Model Classes: `Wally` and `Background`
+
+| Sample:                | Quantity                                                                                                   |
+| :----------------------------- | :------------------------------------------------------------------------------------------------------------------- |
+|Train|+100|
+|Test|+60|
+|Images without bounding boxes locations|+100|
 
 ## Metrics used to evaluate the problem:
 - `Accuracy`: In this code, accuracy refers to the proportion of correctly predicted images out of the total number of images. It is calculated by dividing the number of correctly predicted images by the total number of images.
@@ -33,4 +39,4 @@ Despite achieving good performance, there is still room for improvement, especia
 - Acquiring more computational capacity to train even more batches.
 - Expanding the dataset with data augmentation techniques or even new data.
 
-<img width="900" alt="Screenshot 2023-07-23 at 15 22 13" src="https://github.com/AnabeatrizMacedo241/WheresWally_Detector/assets/84348494/d66bd486-fcb9-4bcd-be72-fb1cd6d08056">
+<img width="800" alt="Screenshot 2023-07-23 at 15 22 13" src="https://github.com/AnabeatrizMacedo241/WheresWally_Detector/assets/84348494/d66bd486-fcb9-4bcd-be72-fb1cd6d08056">
