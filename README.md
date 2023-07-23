@@ -9,7 +9,7 @@ This Depp Learning project used PyTorch's pre-trained model Coco(ResNet-50) with
 
 During training, the Pareto algorithm was implemented to select and save the weights from the best epochs. This algorithm identifies epochs that perform well in both Accuracy and IOU (Intersection over Union). This was done By to optimize storage space by not needing to save all the weights from every epoch.
 
-<img width="1033" alt="Screenshot 2023-07-23 at 15 26 05" src="https://github.com/AnabeatrizMacedo241/WheresWally_Detector/assets/84348494/da686767-4bb4-4a2f-9b89-f052b110cf63">
+<img width="1033" alt="Screenshot 2023-07-23 at 15 26 05" src="https://github.com/AnabeatrizMacedo241/WheresWally_Detector/assets/84348494/362e05c9-52f8-45c7-b9cd-10ee4a61563c">
 
 Model Classes: `Wally` and `Background`
 
@@ -39,4 +39,4 @@ Despite achieving good performance, there is still room for improvement, especia
 - Acquiring more computational capacity to train even more batches.
 - Expanding the dataset with data augmentation techniques or even new data.
 
-<img width="800" alt="Screenshot 2023-07-23 at 15 22 13" src="https://github.com/AnabeatrizMacedo241/WheresWally_Detector/assets/84348494/d66bd486-fcb9-4bcd-be72-fb1cd6d08056">
+<img width="800" alt="Screenshot 2023-07-23 at 15 22 13" src="https://github.com/AnabeatrizMacedo241/WheresWally_Detector/assets/84348494/6d4eb0b6-1c5d-48ed-a0eb-ffe99c09d2e7">
