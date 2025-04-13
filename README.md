@@ -1,6 +1,6 @@
 # Where's Wally Deep Learning Detector🔎
 
-This Depp Learning project used PyTorch's pre-trained model Coco(ResNet-50) with a Fast R-CNN algorithm.
+This Deep Learning project used PyTorch's pre-trained model Coco(ResNet-50) with a Fast R-CNN algorithm.
 
 
 ## [Video of Where's Waldo Application with Streamlit](https://youtu.be/Kit9FLJ7C08)
